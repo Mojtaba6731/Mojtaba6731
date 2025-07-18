@@ -3,7 +3,7 @@
 
 ## Hello there 👋, I'm Mojtaba Sabouri
 
-**Frontend Developer** passionate about building real-time web apps with clean, modular, and type-safe code.
+**A Frontend Developer** passionate about building real-time web apps with clean, modular, and type-safe code.
 I thrive on solving problems from user-facing UI to the complexities of real-time communication systems.
 
 ---
