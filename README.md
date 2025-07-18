@@ -22,6 +22,7 @@ I thrive on solving problems from user-facing UI to the complexities of real-tim
 ![Static Badge](https://img.shields.io/badge/daisy%20ui-gold?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/emotion-violet?style=for-the-badge)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
